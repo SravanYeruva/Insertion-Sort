@@ -1,0 +1,8 @@
+INSERTION SORT (Explanation)
+
+1.first of all get the input array
+2.Select the 2nd element as the key
+3.Now compare the each element with the key
+4.if the compared element is less than key then swap the elements
+5.do this for all the elements
+6.This is the Explanation of insertion sort.
